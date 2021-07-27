@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '3443b0e9ced74c99a4ba090d34ee10f0',
+  rootNotionPageId: 'b8bb7ef0d4fc46e9993950a988a175ed',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Jalen Fu',
-  domain: 'jalenfu.com',
-  author: 'Jalen Fu',
+  name: 'Nancy Guo',
+  domain: 'nancyyes.com',
+  author: 'Nancy Guo',
 
   // open graph metadata (optional)
-  description: 'Jalen Fu',
-  socialImageTitle: 'Jalen Fu',
+  description: 'Nancy Guo',
+  socialImageTitle: 'Nancy Guo',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'Jalen_Fu',
-  github: 'JalenYes',
-  linkedin: 'jalenyes',
+  twitter: 'Nancy_Yaxin',
+  github: 'Nancyyes',
+  linkedin: 'yaxinyes',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
