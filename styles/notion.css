@@ -92,6 +92,12 @@
   filter: brightness(120%);
 }
 
+.notion-page-link.notion-block-543261eaa5ef46f4b37a62de1adfd8a3,
+.notion-page-link.notion-block-7b4f046497f14e8d83daa78b6772da02{
+  justify-content: center;
+  padding: 2em;
+}
+
 /* only target safari */
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   _::-webkit-full-page-media,
@@ -182,11 +188,6 @@
   .notion-page-cover {
     border-radius: 0;
   }
-}
-
-.notion-block-ab9a258d6cf444f3bb40dc2600feae91 .notion-page-link {
-  justify-content: center;
-  padding: 2em;
 }
 
 .notion-code {
